@@ -2,7 +2,7 @@
 <package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <metadata>
     <id>FastAdapter.Xamarin.Droid</id>
-    <version>1.5.6.0</version>
+    <version>1.6.0.0</version>
     <title>FastAdapter.Xamarin.Droid</title>
     <authors>Mikepenz, EmanuelBalea</authors>
     <owners />
@@ -27,6 +27,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Projects\FastAdapter\bin\Release\FastAdapter.dll" target="lib\MonoAndroid403" />
+    <file src="./bin/Release/FastAdapter.dll" target="lib\MonoAndroid403" />
   </files>
 </package>

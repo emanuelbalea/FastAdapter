@@ -66,10 +66,10 @@
     <None Include="FastAdapter.nuspec" />
     <None Include="Jars\AboutJars.txt" />
     <None Include="Additions\AboutAdditions.txt" />
-    <LibraryProjectZip Include="Jars\fastadapter-1.5.6.aar" />
     <None Include="LICENSE" />
     <None Include="packages.config" />
     <None Include="README.md" />
+    <LibraryProjectZip Include="Jars\fastadapter-1.6.0.aar" />
   </ItemGroup>
   <ItemGroup>
     <TransformFile Include="Transforms\Metadata.xml" />
