@@ -1,0 +1,35 @@
+<metadata>
+  <!--
+  This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
+  
+  This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
+  -->
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter']/class[@name='AbstractAdapter']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter.adapters']/class[@name='AbstractWrapAdapter']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter.adapters']/class[@name='FastItemAdapter']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter.adapters']/class[@name='FooterAdapter']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter.adapters']/class[@name='GenericFastItemAdapter']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter.adapters']/class[@name='GenericItemAdapter']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter.adapters']/class[@name='HeaderAdapter']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter.adapters']/class[@name='ItemAdapter']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter']/class[@name='BuildConfig']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter']/class[@name='FastAdapter']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter']/interface[@name='IAdapter']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter']/interface[@name='IClickable']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter']/interface[@name='IDraggable']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter']/interface[@name='IExpandable']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter']/interface[@name='IIdentifyable']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter']/interface[@name='IItem']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter']/interface[@name='IItemAdapter']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter.helpers']/class[@name='ClickListenerHelper']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter.items']/class[@name='AbstractItem']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter.items']/class[@name='GenericAbstractItem']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter.utils']/class[@name='AdapterUtil']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter.utils']/class[@name='FastAdapterUIUtils']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter.utils']/class[@name='IdDistributor']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter.utils']/interface[@name='IFunction']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter.utils']/interface[@name='IViewHolderFactory']"/>
+  <remove-node path="/api/package[@name='com.mikepenz.fastadapter.Utils']/class[@name='RecyclerViewCacheUtil']"/>
+</metadata>
