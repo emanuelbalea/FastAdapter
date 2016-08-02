@@ -61,6 +61,30 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.Adapters.AbstractWrapAdapter.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.Adapters.FastItemAdapter.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.Adapters.FooterAdapter.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.Adapters.GenericFastItemAdapter.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.Adapters.GenericItemAdapter.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.Adapters.HeaderAdapter.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.Adapters.ItemAdapter.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.BuildConfig.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.FastAdapter.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.Helpers.ClickListenerHelper.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.IAdapter.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.IClickable.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.IDraggable.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.IExpandable.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.IIdentifyable.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.IItem.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.IItemAdapter.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.Items.AbstractItem.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.Items.GenericAbstractItem.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.Utils.AdapterUtil.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.Utils.FastAdapterUIUtils.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.Utils.IdDistributor.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.Utils.RecyclerViewCacheUtil.cs" />
+    <Compile Include="Additions\Com.Mikepenz.Fastadapter.AbstractAdapter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="FastAdapter.nuspec" />
